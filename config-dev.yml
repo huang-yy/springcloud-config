@@ -1,6 +1,3 @@
-server:
-  port: 3344
-spring:
-  application:
-    name: cloud-config-center
+config:
+  infos: "main ,springcloud-config/config-dev.yml"
  
